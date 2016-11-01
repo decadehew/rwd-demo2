@@ -1,0 +1,44 @@
+h1 {
+  font-family: 'Coiny', cursive;
+}
+
+h5 {
+  font-family: 'Raleway', sans-serif;
+}
+
+.font-h3 {
+  font-family: 'Orbitron', sans-serif;
+}
+
+.fb {
+  margin-top: 0.266em;
+  margin-left: 20px;
+}
+
+#hr-id {
+  border-top-color: #a94442;
+}
+
+.main, .main3 {
+  width: 100%;
+  height: 80%;
+}
+
+/*responsive design*/
+
+@media screen and (max-width: 700px) {
+  
+  #code-top {
+    margin-top: 10px;
+  }
+  
+  p {
+    padding-bottom: 50px;
+  }
+  
+  img {
+    width: 100%;
+    height: 80%;
+  }
+}
+
